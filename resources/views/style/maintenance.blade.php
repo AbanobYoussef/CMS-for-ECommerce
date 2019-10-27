@@ -1,0 +1,2 @@
+
+{!!setting()->message_maintenance  !!}
